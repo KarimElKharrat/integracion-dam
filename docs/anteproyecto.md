@@ -16,11 +16,7 @@
 
 #### CASOS DE USO:
 
-```
-
-```
-
-> ![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/casosdeuso.png?raw=true)
+![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/casosdeuso.png?raw=true)
 
 ## ESTIMACIÓN DE COSTES
 
