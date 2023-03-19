@@ -10,17 +10,15 @@
 
 ## ANÁLISIS DEL SOFTWARE
 
-*[TODO] Determinar de forma genérica lo que tiene que hacer el software y cuáles son los requisitos que debe cumplir.*
-
-*Si el proyecto trata sobre la adaptación o ampliación de algún software existente, se deberá aportar información sobre el mismo (documentos electrónicos, direcciones URL, etc.), delimitando claramente cuál será el trabajo que se realizará y que funcionalidad ya está implementada.*
-
-> *Incuir los diagramas necesarios*
+*Como ya se ha dicho el software debe ofrecer información y estadísticas deportivas orientadas a los esports de forma "amigable", así, el usuario podría consultar toda la información que le interese de la competición que quiera. Además, se ofrecerá la opción de modificar cualquier dato si se registra con cuenta de administrador.*
 
 ## DISEÑO DEL SOFTWARE
 
-*[TODO] Propuesta de posibles opciones de implementación del software que hay que construir, determinar cómo se va a llevar a cabo la implementación.*
+#### CASOS DE USO:
 
->  *Incluir los diagramas necesarios.*
+```
+![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/casosdeuso.png?raw=true)
+```
 
 ## ESTIMACIÓN DE COSTES
 
