@@ -4,9 +4,13 @@
 
 ## OBJETIVOS
 
-*[TODO] Se indicará de forma genérica y sin entrar en concreciones el objetivo
-que se pretende alcanzar al realizar el proyecto. Se indicará igualmente donde
-será utilizado el proyecto obtenido.*
+**
+
+Quiero hacer una aplicación de información y estadísticas deportivas orientadas a los esports, en este caso el lol o league of legends. La idea principal es abarcar las principales ligas de las mayores regiones, en este caso son cuatro: china(LPL), corea(LCK), norte américa(LCS) y europa(LEC). 
+
+La idea es que al finalizar el proyecto se haya logrado crear una aplicación en la que puedas consultar resultados y fechas de los partidos, qué jugadores participan en cada equipo, cómo va el equipo en la liga, así como modificar el estado de los jugadores, es decir, dar de alta, baja o modificar el estado de los jugadores en la base de datos (a esto último sólo tendrían acceso un grupo reducido de personas de confianza, por supuesto).
+
+**
 
 ## PREANALISIS DE LO EXISTENTE (Opcional)
 
