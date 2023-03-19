@@ -4,17 +4,9 @@
 
 ## OBJETIVOS
 
-**
+*Quiero hacer una aplicación de información y estadísticas deportivas orientadas a los esports, en este caso el lol o league of legends. La idea principal es abarcar las principales ligas de las mayores regiones, en este caso son cuatro: China (LPL), Corea (LCK), Norte América (LCS) y Europa (LEC).*
 
-Quiero hacer una aplicación de información y estadísticas deportivas orientadas a los esports, en este caso el lol o league of legends. La idea principal es abarcar las principales ligas de las mayores regiones, en este caso son cuatro: china(LPL), corea(LCK), norte américa(LCS) y europa(LEC). 
-
-La idea es que al finalizar el proyecto se haya logrado crear una aplicación en la que puedas consultar resultados y fechas de los partidos, qué jugadores participan en cada equipo, cómo va el equipo en la liga, así como modificar el estado de los jugadores, es decir, dar de alta, baja o modificar el estado de los jugadores en la base de datos (a esto último sólo tendrían acceso un grupo reducido de personas de confianza, por supuesto).
-
-**
-
-## PREANALISIS DE LO EXISTENTE (Opcional)
-
-*[TODO] Si procede, se informará brevemente sobre el funcionamiento del sistema actual. El que vamos a reemplazar o a mejorar. Este sistema no tiene por qué estar necesariamente automatizado pudiendo realizarse actualmente de forma manual por personas.*
+*La idea es que al finalizar el proyecto se haya logrado crear una aplicación en la que puedas consultar resultados y fechas de los partidos, qué jugadores conforman cada equipo, cuál es el resultado del equipo en la liga, así como modificar el estado de los jugadores, es decir, dar de alta, baja o modificar el estado de los jugadores en la base de datos (a esto último sólo tendrían acceso un grupo reducido de personas de confianza, por supuesto).*
 
 ## ANÁLISIS DEL SOFTWARE
 
@@ -32,4 +24,6 @@ La idea es que al finalizar el proyecto se haya logrado crear una aplicación en
 
 ## ESTIMACIÓN DE COSTES
 
-*[TODO] Estimar el coste que representará la creación del proyecto. Esta estimación será temporal y/o económica si procede (costes de contratación de servicios en la nube, por ejemplo).*
+*En un principio, este proyecto se desarrollará en mi tiempo libre, que quitando prácticas y horas de descanso son unas 3-4 horas al dia sin contar fines de semana, ésto sería hasta el 30 de mayo (fecha límite de entrega del proyecto). Suponiendo que empiezo el 20 de marzo esto daría un total de 20 días a 3-4 horas al día dan en total unas 60-80 horas.*
+
+*En un principio.*
