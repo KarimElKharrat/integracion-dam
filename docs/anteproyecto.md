@@ -4,19 +4,25 @@
 
 ## OBJETIVOS
 
-*Quiero hacer una aplicación de información y estadísticas deportivas orientadas a los esports, en este caso el lol o league of legends. La idea principal es abarcar las principales ligas de las mayores regiones, en este caso son cuatro: China (LPL), Corea (LCK), Norte América (LCS) y Europa (LEC).*
+*Quiero hacer una aplicación de información y estadísticas deportivas orientadas a los esports, en este caso el lol o league of legends. En un principio se abarcarán las principales ligas de las mayores regiones, en este caso son cuatro: China (LPL), Corea (LCK), Norte América (LCS) y Europa (LEC).*
 
 *La idea es que al finalizar el proyecto se haya logrado crear una aplicación en la que puedas consultar resultados y fechas de los partidos, qué jugadores conforman cada equipo, cuál es el resultado del equipo en la liga, así como modificar el estado de los jugadores, es decir, dar de alta, baja o modificar el estado de los jugadores en la base de datos (a esto último sólo tendrían acceso un grupo reducido de personas de confianza, por supuesto).*
 
 ## ANÁLISIS DEL SOFTWARE
 
-*Como ya se ha dicho el software debe ofrecer información y estadísticas deportivas orientadas a los esports de forma "amigable", así, el usuario podría consultar toda la información que le interese de la competición que quiera. Además, se ofrecerá la opción de modificar cualquier dato si se registra con cuenta de administrador.*
+**Requisitos:**
 
-## DISEÑO DEL SOFTWARE
+- Debe ofrecer información y estadísticas deportivas orientadas a los esports de forma "amigable".
+
+- El usuario podría consultar toda la información que le interese de cualquier competición.
+
+- Opción de modificar cualquier dato si se registra con cuenta de administrador.
 
 #### CASOS DE USO:
 
 ![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/casosdeuso.png?raw=true)
+
+## DISEÑO DEL SOFTWARE
 
 #### DIAGRAMA DE FLUJO DE DATOS:
 
@@ -26,27 +32,33 @@
 
 *Nivel 1:*
 
-> **=primitivo
-
 ![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/dfdnivel1.png?raw=true)
+
+<sub>**=primitivo</sub>
 
 *Nivel 2 (Registro):*
 
-> **=primitivo
-
 ![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/dfdnivel2.1.png?raw=true)
 
-*Nivel 2 (Gestionar consulta):*
+<sub>**=primitivo</sub>
 
-> **=primitivo
+*Nivel 2 (Gestionar consulta):
 
 ![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/dfdnivel2.2.png?raw=true)
 
-*Nivel 3 (Registro):*
+<sub>**=primitivo</sub>
 
-> **=primitivo
+*Nivel 3 (Registro):
 
 ![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/dfdnivel3.png?raw=true)
+
+<sub>**=primitivo</sub>
+
+
+
+#### DIAGRAMA ENTIDAD-RELACIÓN TRANSFORMADO:
+
+![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/bdprincipal.png?raw=true)
 
 ## ESTIMACIÓN DE COSTES
 
