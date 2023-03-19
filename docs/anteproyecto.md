@@ -18,13 +18,15 @@
 
 - Opción de modificar cualquier dato si se registra con cuenta de administrador.
 
-#### CASOS DE USO:
+##### CASOS DE USO:
 
 ![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/casosdeuso.png?raw=true)
 
 ## DISEÑO DEL SOFTWARE
 
-#### DIAGRAMA DE FLUJO DE DATOS:
+La implementación se llevará a cabo desde el 20 de marzo hasta el 30 de mayo. Se implementarán toda la lógica descrita en el siguiente diagrama de flujo de datos, además se crearán las bases de datos principal y la de usuarios siguiendo el diagrama de entidad-relación transformado que aparece justo después del diagrama de flujo de datos.
+
+##### DIAGRAMA DE FLUJO DE DATOS:
 
 *Nivel 0 o de contexto:*
 
@@ -54,14 +56,16 @@
 
 <sub>**=primitivo</sub>
 
-
-
-#### DIAGRAMA ENTIDAD-RELACIÓN TRANSFORMADO:
+##### DIAGRAMA ENTIDAD-RELACIÓN TRANSFORMADO:
 
 ![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/bdprincipal.png?raw=true)
+<sub>*BD Principal*</sub>
+
+![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/bdusuarios.png?raw=true)
+<sub>*BD Usuarios*</sub>
 
 ## ESTIMACIÓN DE COSTES
 
 *En un principio, este proyecto se desarrollará en mi tiempo libre, que quitando prácticas y horas de descanso son unas 3-4 horas al dia sin contar fines de semana, ésto sería hasta el 30 de mayo (fecha límite de entrega del proyecto). Suponiendo que empiezo el 20 de marzo esto daría un total de 20 días a 3-4 horas al día dan en total unas 60-80 horas.*
 
-*En un principio.*
+*En un principio no hay más costes a parte de los ya mencionados.*
