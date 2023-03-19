@@ -59,9 +59,11 @@ La implementación se llevará a cabo desde el 20 de marzo hasta el 30 de mayo. 
 ##### DIAGRAMA ENTIDAD-RELACIÓN TRANSFORMADO:
 
 ![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/bdprincipal.png?raw=true)
+
 <sub>*BD Principal*</sub>
 
 ![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/bdusuarios.png?raw=true)
+
 <sub>*BD Usuarios*</sub>
 
 ## ESTIMACIÓN DE COSTES
