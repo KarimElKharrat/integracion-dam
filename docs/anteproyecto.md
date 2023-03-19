@@ -18,6 +18,36 @@
 
 ![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/casosdeuso.png?raw=true)
 
+#### DIAGRAMA DE FLUJO DE DATOS:
+
+*Nivel 0 o de contexto:*
+
+![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/dfdnivel0.png?raw=true)
+
+*Nivel 1:*
+
+> **=primitivo
+
+![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/dfdnivel1.png?raw=true)
+
+*Nivel 2 (Registro):*
+
+> **=primitivo
+
+![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/dfdnivel2.1.png?raw=true)
+
+*Nivel 2 (Gestionar consulta):*
+
+> **=primitivo
+
+![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/dfdnivel2.2.png?raw=true)
+
+*Nivel 3 (Registro):*
+
+> **=primitivo
+
+![alt text](https://github.com/KarimElKharrat/integracion-dam/blob/main/docs/doc_images/dfdnivel3.png?raw=true)
+
 ## ESTIMACIÓN DE COSTES
 
 *En un principio, este proyecto se desarrollará en mi tiempo libre, que quitando prácticas y horas de descanso son unas 3-4 horas al dia sin contar fines de semana, ésto sería hasta el 30 de mayo (fecha límite de entrega del proyecto). Suponiendo que empiezo el 20 de marzo esto daría un total de 20 días a 3-4 horas al día dan en total unas 60-80 horas.*
