@@ -1,7 +1,21 @@
 # Pruebas
 
-Detección de fallos cometidos en las etapadas anteriores para corregirlos. Elaborar planes de pruebas a distintos niveles: pruebas unitarias, pruebas de integración, pruebas con usuarios, ...
+El propósito de este documento es identificar posibles características que mejorarían la experiencia del usuario. Para ello vamos a revisar nuestro software y lo vamos a comparar con otros ya consolidados.
 
-Incluye en este apartado la documentación de las pruebas que te planteas realizar.
+- La primera mejora que veo sería añadir un botón de añadir registro en el panel de administrador tal y como se muestra en la siguiente imagen:
+  
+  ![](C:\Users\Karim\Desktop\ProyectoFinal\docs\doc_images\pruebas\añadirregistro.png)
 
-También la documentación resultante de las pruebas realizadas con la confimación de su correcto funcionamiento y las conclusiones que se puedan extraer de las mismas. 
+- Otra posible mejora sería añadir entrenadores y su pestaña correspondiente tanto en el panel de administrador como en la vista que ve el usuario final:
+  
+  ![](C:\Users\Karim\Desktop\ProyectoFinal\docs\doc_images\pruebas\entrenadores.png)![](C:\Users\Karim\Desktop\ProyectoFinal\docs\doc_images\pruebas\entrenadores2.png)
+
+- Otra mejora sería añadir un "Tournament bracket" y una tabla de puntuaciones para ver cómo van los equipos en sus respectivas ligas:
+  
+  "Tournament bracket":
+  
+  ![](C:\Users\Karim\Desktop\ProyectoFinal\docs\doc_images\pruebas\bracket.png)
+  
+  Tabla de puntuaciones:
+  
+  ![](C:\Users\Karim\Desktop\ProyectoFinal\docs\doc_images\pruebas\tabla%20de%20puntuaciones%20la%20lig.png)
