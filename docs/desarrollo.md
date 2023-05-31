@@ -9,7 +9,7 @@ Voy a usar las mismas tecnologías que he usado en las prácticas de empresa:
 - Servicio de dominio y alojamiento web: [Hostalia](https://www.hostalia.com).
 
 Además he desarrollado una api en php desde cero (ya que no hay ninguna funcional por el momento), se puede acceder mediante el siguiente enlace:
-https://lolesportswiki.info/api/handler.php/{nombre modulo}/{nombre acción}?{variables, si procede}.
+https://lolesportswiki.info/api/handler.php/ {nombre modulo}/{nombre acción}?{variables, si procede}.
 
 Actualmente existen 10 módulos:
  - coach/{list | delete}
